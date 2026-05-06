@@ -1,4 +1,5 @@
 # 💫 About Me Arda TAŞKIN:
+Merhaba ben Arda Taşkın ,
 Şu anda ağırlıklı olarak ürün geliştirme ve eğitim teknolojileri üzerine projeler üretiyorum. Çalışmalarımın çoğu web teknolojileri ve mobil uygulamalar (özellikle Flutter) üzerine odaklanıyor.<br><br>Yeni fikirler üretmeyi, öğrenmeyi ve başkalarıyla birlikte projeler geliştirmeyi çok seviyorum. Eğer bu alanlarda yardımlaşmak, fikir alışverişi yapmak veya birlikte bir proje geliştirmek istersen benimle iletişime geçmekten çekinme.<br><br>Bir fikrin varsa ve birlikte hayata geçirebileceğimizi düşünüyorsan, konuşmaktan mutluluk duyarım.<br><br>🇬🇧 English<br><br>Currently, I am mainly working on product development and educational technology tools. Most of my projects focus on web technologies and mobile applications (especially Flutter).<br><br>I enjoy creating new ideas, learning continuously, and collaborating with others on meaningful projects. If you are interested in collaborating, exchanging ideas, or building something together in these areas, feel free to reach out.<br><br>If you have an idea and think we could build it together, I would be happy to connect.
 
 
